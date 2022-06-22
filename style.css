@@ -20,3 +20,7 @@ button{
   border: 2px solid #E8F6EF;
   border-radius: 5px;
 }
+button:hover{
+  background-color:#E8F6EF;
+  color:#4C4C6D;
+}
