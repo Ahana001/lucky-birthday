@@ -10,7 +10,7 @@ Now, find out if the sum of digits of birthday is divisible by the lucky number.
 
 Show the result to the user.
 
-#How to use:
+# How to use:
 Enter your birth date
 
 Enter your lucky number & click on Enter
